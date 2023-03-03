@@ -46,6 +46,7 @@ console.log(arr);
 
 
 /*
+3.
 The value of fruit after calling the changeFruit() function will be ['apple', 'mango', 'orange'].
 
 This is because the changeFruit() function takes an array as its argument and modifies the third element (index 2) to be "orange". Then, it returns the modified array.
@@ -55,6 +56,7 @@ When the changeFruit() function is called with the fruit array as an argument, i
 
 
 /*
+4.
 function max(arr) {
   let maxValue = arr[0]; // initialize maxValue to the first element of the array
 
@@ -73,6 +75,7 @@ console.log(max([4, 5, 12, -2])); // Output: 10
 */
 
 /*
+5.
 function valTimesIndex(arr) {
   let result = [];
 
